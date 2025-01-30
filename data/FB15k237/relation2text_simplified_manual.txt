@@ -1,0 +1,114 @@
+football 
+music
+sports
+food
+film 
+award
+government 
+money
+place of death
+profession
+location
+basketball
+education
+partially contains
+tv
+webpage
+user
+field of study
+business
+film set design
+languages
+company
+country
+place of birth
+citytown
+country of origin
+medal
+honored for
+list
+ranking
+climate 
+religion
+sports league
+leadership 
+cause of death
+sibling
+cinematography
+film dubbing 
+biblioness
+dog breed
+gender
+to date somebody 
+olympic medal
+film director 
+record label
+story by
+profession
+spouse
+americancomedy
+fraternities and sororities
+award nomination
+combatants
+nominated for
+time zones
+colors
+program
+film festivals
+non profit organization
+aareas
+award winning
+soccer
+politician
+localfood
+school
+peer
+risk factors
+military
+capitol 
+actor 
+place of burial
+film prequel
+tv program
+artist
+nationality
+capital
+industry
+crewmember
+popstra
+disease
+money
+sports position
+celebrity
+organization founder
+sports team
+geographic distribution
+imports and exports
+netflix genre 
+philosophy
+student
+diet
+medicine 
+instrument
+friendship 
+music group
+edited by
+participant
+time
+organization
+travel
+baseball
+influence
+culturalevent
+currency
+administrative area 
+marriage
+major field of study
+film written by
+performance role
+campus
+athlete
+ethnicity
+tv_producer
+olympics
+cast members

@@ -1,0 +1,1001 @@
+head,tail,expected_relation,predicted_relation
+6845599,3754979,member of domain usage,instance hypernym
+789448,1062739,verb group,derivationally related form
+8860123,5688486,member of domain region,member of domain region
+2233096,2233338,member meronym,hypernym
+1371092,1352059,hypernym,hypernym
+2314321,8102555,hypernym,Instance hypernym
+8621598,8620061,hypernym,similar to
+3239726,3027250,has part,has part
+12400489,12651821,hypernym,instance hypernym
+779360,15274695,derivationally related form,synset
+7359599,555447,derivationally related form,similar to
+10686313,9610660,hypernym,hypernym
+13286099,2234988,derivationally related form,derivationally related form
+1444326,1441510,hypernym,Similar to
+5442131,5436080,has part,has part
+8660339,8512259,hypernym,similar to
+7085786,7085375,hypernym,synset
+6178812,10256080,derivationally related form,derivationally related form
+1257145,7488875,derivationally related form,derivationally related form
+2156546,7335716,derivationally related form,similar to
+2270342,2577061,also see,Similar to
+1938426,1835496,hypernym,verb group
+8814333,8524735,instance hypernym,instance hypernym
+770151,766234,hypernym,instance hypernym
+4903813,1763829,derivationally related form,similar to
+1908287,8107499,hypernym,instance hyponym
+7861421,1577513,derivationally related form,derivationally related form
+1046587,1046059,hypernym,Similar to
+951037,949619,hypernym,domain topic of
+13266892,13265904,hypernym,synset
+15121625,28270,hypernym,hypernym
+6754184,6753800,hypernym,instance hypernym
+1194418,2492198,hypernym,Similar to
+1008719,8441203,synset domain topic of,member of domain usage
+474017,7357679,derivationally related form,derivationally related form
+13627516,13627327,has part,has part
+964569,1118449,derivationally related form,similar to
+4105068,4014297,hypernym,hypernym
+1322854,223983,derivationally related form,derivationally related form
+1716882,7007945,derivationally related form,derivationally related form
+8159924,7971582,hypernym,instance hypernym
+6580646,6568978,hypernym,hypernym
+968962,968211,hypernym,hypernym
+1696849,1697837,member meronym,Hyponym
+6643408,6797169,hypernym,similar to
+6596978,6593296,hypernym,synset
+7572957,7566340,hypernym,Hypernym
+1695976,4681797,derivationally related form,derivationally related form
+7091902,6290637,hypernym,Derivationally related form
+2425228,2424695,hypernym,instance hypernym
+6693198,860620,derivationally related form,synset
+1057034,1253379,derivationally related form,derivationally related form
+62582,89324,hypernym,verb group
+1455592,1455986,member meronym,instance hypernym
+7191777,7191279,hypernym,similar to
+2514988,2515214,member meronym,instance hypernym
+8174398,8949093,member meronym,member of.
+630634,624738,hypernym,instance hyponym
+12406715,12405714,hypernym,instance hypernym
+7466557,7470671,hypernym,hypernym
+1733213,1714208,hypernym,verb group
+12224309,11534677,hypernym,instance hypernym
+810729,811375,hypernym,Similar to
+13726074,13725726,has part,similar to
+802946,1141841,derivationally related form,derivationally related form
+9989045,10129825,hypernym,instance hypernym
+974367,9795124,derivationally related form,has part
+2802544,3120491,hypernym,instance hypernym
+10128909,9606527,hypernym,Similar to
+1687569,5844105,derivationally related form,derivationally related form
+2001858,319939,derivationally related form,similar to
+5673908,1978003,derivationally related form,similar to
+7040148,7037465,hypernym,instance hypernym
+13060190,12992868,hypernym,hyponym
+376400,376063,hypernym,synset
+6083243,10806222,derivationally related form,derivationally related form
+8900535,8903220,has part,has part
+353992,493703,derivationally related form,derivationally related form
+43902,471613,synset domain topic of,member of domain usage
+2641035,1062817,derivationally related form,synset
+1951276,1953810,hypernym,hypernym
+5154517,4723816,hypernym,hypernym
+2490004,2488834,hypernym,verb group
+2040505,2021795,hypernym,instance hypernym
+10826352,9989502,instance hypernym,instance hypernym
+8541288,195342,derivationally related form,derivationally related form
+740342,8441203,synset domain topic of,hypernym
+1463963,5075602,derivationally related form,similar to
+1170243,14447908,derivationally related form,synset
+7434102,7433973,hypernym,similar to
+2156546,2609764,hypernym,similar to
+8919949,9697070,member meronym,derivationally related form
+11020721,10624540,instance hypernym,instance hypernym
+8806897,8807554,has part,has part
+2208118,2311387,also see,similar to
+6389753,1745377,derivationally related form,derivationally related form
+11746776,12539306,member meronym,hypernym
+626428,10508710,derivationally related form,derivationally related form
+118733,116687,hypernym,hypernym
+2081178,8617963,derivationally related form,similar to
+13902048,1742244,derivationally related form,synset domain topic of
+7334490,478830,derivationally related form,derivationally related form
+3547054,4191595,hypernym,hypernym
+10564660,6403969,derivationally related form,derivationally related form
+1511706,104249,derivationally related form,verb group
+12658846,7770180,has part,has part
+1410223,1236164,verb group,synset
+1215851,3068181,derivationally related form,Similar to
+14907122,15047313,hypernym,instance hypernym
+8780881,10595361,member of domain region,instance hypernym
+179567,173338,hypernym,Verb group
+645493,4784142,derivationally related form,derivationally related form
+5027529,5026843,hypernym,derivationally related form
+2456493,1544692,hypernym,derivationally related form
+12409016,11567411,hypernym,instance hypernym
+459114,7891726,derivationally related form,derivationally related form
+11338796,9798811,instance hypernym,instance hypernym
+966869,2344568,derivationally related form,derivationally related form
+216038,209943,hypernym,Similar to
+4433585,2886599,hypernym,member meronym
+5090441,434077,derivationally related form,derivationally related form
+15231765,15113229,instance hypernym,hypernym
+4606014,3368141,hypernym,Hypernym
+11460281,11459538,hypernym,synset
+8780018,8691669,instance hypernym,instance hypernym
+2761834,1042725,derivationally related form,derivationally related form
+425278,1803003,derivationally related form,similar to
+9917593,15147097,derivationally related form,hypernym
+4821802,103696,derivationally related form,derivationally related form
+9606009,7846,hypernym,hypernym
+1143409,1143040,hypernym,Similar to
+3171356,4341686,hypernym,member of domain usage
+1977080,10019406,derivationally related form,derivationally related form
+10109443,10341660,hypernym,hypernym
+4229959,3101986,hypernym,hypernym
+13306870,2321046,derivationally related form,derivationally related form
+6972311,6972090,hypernym,member of domain usage
+369864,5015463,derivationally related form,hypernym
+1643092,1643255,member meronym,Hypernym
+4667406,1484083,derivationally related form,synset
+4962240,4961691,hypernym,hyponym
+6845599,3587715,member of domain usage,instance hypernym
+4671394,724861,derivationally related form,derivationally related form
+6268784,6268096,hypernym,Hypernym.
+1466543,262249,derivationally related form,derivationally related form
+2446645,2445715,hypernym,synset
+4868748,4826235,hypernym,similar to
+11915658,11915214,hypernym,hypernym
+15256714,5867413,hypernym,hypernym
+7127252,7109847,hypernym,hypernym
+1473990,8103777,hypernym,Instance hypernym
+1296462,379422,derivationally related form,derivationally related form
+560529,558630,hypernym,instance hypernym
+11911591,12000609,member meronym,instance hypernym
+12169526,12192373,member meronym,member of
+538571,6084469,synset domain topic of,domain topic of
+5533948,5248181,hypernym,Hypernym
+1382273,1352059,hypernym,hypernym
+8860123,1252566,member of domain usage,member of domain region
+10299875,9624559,hypernym,similar to
+2795169,4531098,hypernym,hypernym
+8156685,11259950,member meronym,member of
+10717461,7846,hypernym,similar to
+4364545,3739693,hypernym,hypernym
+1336587,5645597,derivationally related form,synset
+738747,983824,hypernym,similar to
+5239808,5241827,has part,has part
+6115701,10127689,derivationally related form,has part
+8172877,7951464,hypernym,instance hypernym
+3273913,4070727,hypernym,synset
+686890,1010118,derivationally related form,derivationally related form
+2761685,378479,derivationally related form,derivationally related form
+12983961,13024012,hypernym,instance hypernym
+9876892,10307234,hypernym,synset
+6742772,6742426,hypernym,synset
+45145,47945,hypernym,synset
+12960211,12960378,member meronym,instance hypernym
+5941210,701040,derivationally related form,verb group
+946755,6807198,derivationally related form,derivationally related form
+6780309,6780069,hypernym,Similar to
+6151693,10620758,derivationally related form,derivationally related form
+1453969,1453433,hypernym,"""verb group"""
+939818,1707925,derivationally related form,derivationally related form
+12969670,12969131,hypernym,hypernym
+11607071,8103777,hypernym,instance hypernym
+1740969,918383,derivationally related form,derivationally related form
+8766988,8769439,has part,has part
+12724201,12725940,member meronym,instance hypernym
+1589125,1589286,member meronym,Instance hypernym
+56688,53913,hypernym,synset
+12761123,11567411,hypernym,instance hypernym.
+591115,5805475,derivationally related form,derivationally related form
+13954253,43765,derivationally related form,derivationally related form
+1346003,3848348,derivationally related form,derivationally related form
+2248744,1759182,hypernym,instance hypernym
+12242123,13112664,hypernym,hypernym
+10682038,1916634,derivationally related form,similar to
+4956110,565592,derivationally related form,derivationally related form
+824066,826509,hypernym,Similar to
+1946277,1945845,hypernym,hypernym
+4372171,3575958,hypernym,hypernym
+154778,153263,hypernym,verb group
+14980579,14686352,hypernym,instance hypernym
+7047011,7020895,synset domain topic of,member of domain topic of
+5301908,941990,derivationally related form,member of domain usage
+11804604,11813309,member meronym,instance hypernym
+11805837,11573660,hypernym,instance hypernym
+11612349,11608250,hypernym,hypernym
+2621901,5008746,derivationally related form,hypernym
+7060167,7059255,hypernym,hypernym
+8969291,3024420,derivationally related form,derivationally related form
+6934132,6930934,hypernym,hypernym
+10251779,7846,hypernym,hypernym
+2625016,50693,derivationally related form,derivationally related form
+4576211,2764779,has part,has part
+2426799,13944914,derivationally related form,similar to
+11704791,11705052,has part,has part
+4294426,2688443,hypernym,hypernym
+4657876,1076793,derivationally related form,synset
+2150948,10576071,derivationally related form,derivationally related form
+937656,933420,hypernym,hypernym
+5133287,5129201,hypernym,synset
+900070,836236,derivationally related form,synset
+1400575,8103777,hypernym,instance hypernym
+1239064,2677567,derivationally related form,Similar to.
+10214637,1632411,derivationally related form,derivationally related form
+3386011,2811936,has part,has part
+13951984,13951444,hypernym,similar to
+2496816,2539334,hypernym,similar to
+5614657,5614175,hypernym,similar to
+13800801,171127,derivationally related form,derivationally related form
+12202936,13104059,hypernym,hypernym
+265386,260622,derivationally related form,derivationally related form
+11529603,11536778,member meronym,has part
+2390470,10363913,derivationally related form,derivationally related form
+4907269,4616059,hypernym,hypernym
+39021,37396,hypernym,derivationally related form
+828901,962447,hypernym,member of domain usage
+136152,134780,hypernym,similar to
+24649,3395745,derivationally related form,derivationally related form
+9211735,9403734,instance hypernym,instance hypernym
+9891470,2951358,derivationally related form,has part
+4071393,3763968,hypernym,Hypernym
+343730,528667,synset domain topic of,domain topic of
+12501745,12547658,member meronym,member of domain usage
+9851165,2669081,derivationally related form,verb group
+14498096,1269379,derivationally related form,member of domain usage
+3650173,1262113,derivationally related form,derivationally related form
+2244956,2294436,also see,verb group
+2529515,2531820,member meronym,Hypernym
+2621395,7092356,derivationally related form,derivationally related form
+960734,13845239,derivationally related form,derivationally related form
+1567133,1563128,hypernym,hyponym
+11199727,10650162,instance hypernym,instance hypernym
+13999663,13998576,hypernym,Similar to
+13481883,2762806,derivationally related form,derivationally related form
+633864,785962,derivationally related form,derivationally related form
+12892226,12904148,member meronym,instance hypernym
+256961,256746,hypernym,synset
+9165613,9483129,has part,member of domain region
+3673767,1270784,derivationally related form,derivationally related form
+8740875,8745901,has part,has part
+2267826,2263378,hypernym,instance hypernym
+2134589,2136623,member meronym,hypernym
+6350918,6350274,hypernym,similar to
+2400760,10760340,derivationally related form,derivationally related form
+5537806,5220461,hypernym,member meronym
+5505679,5462315,hypernym,hypernym
+7242324,7241205,hypernym,Hypernym
+212173,4683600,derivationally related form,derivationally related form
+534480,342028,hypernym,derivationally related form
+8279298,8284481,hypernym,synset
+3579982,4170515,has part,has part
+9460888,9403734,instance hypernym,hypernym
+2726715,14365356,derivationally related form,synset
+238867,239321,verb group,Synset
+6845599,3189995,member of domain usage,instance hypernym
+7409592,2685665,derivationally related form,derivationally related form
+13478525,229280,derivationally related form,derivationally related form
+455599,407535,hypernym,hypernym
+1271428,956485,instance hypernym,instance hypernym
+1741864,916464,synset domain topic of,member of domain usage
+2767308,1253060,derivationally related form,derivationally related form
+347652,1898592,derivationally related form,derivationally related form
+471711,223720,derivationally related form,member of domain usage
+4826235,4846770,hypernym,synset
+1353405,14705718,derivationally related form,derivationally related form
+493703,353992,derivationally related form,derivationally related form
+2440705,2447591,member meronym,instance hypernym
+13148019,13148384,member meronym,instance hypernym
+9190918,7347,hypernym,Hypernym
+12995724,13082077,member meronym,member of
+12464278,12464476,member meronym,similar to
+6115476,6000400,hypernym,hypernym
+9147046,4378842,has part,member of domain region
+2259829,761713,hypernym,similar to
+12195965,12196129,member meronym,instance hypernym
+12099342,13118707,hypernym,hypernym
+12112008,12102133,hypernym,hyponym
+3631445,3106110,hypernym,member meronym
+1012712,739662,derivationally related form,similar to
+12373361,11565385,hypernym,hypernym
+6883725,4416901,hypernym,similar to
+8199025,10305635,member meronym,has part
+588888,5805475,derivationally related form,derivationally related form
+704388,5784242,derivationally related form,synset
+10173895,7846,hypernym,hypernym
+8920924,8926543,has part,has part
+1187620,8441203,synset domain topic of,instance hypernym
+12219875,12220019,member meronym,instance hypernym
+464513,1430111,also see,similar to
+746084,1027508,hypernym,verb group
+6756831,835506,derivationally related form,similar to
+15022389,15022171,hypernym,hypernym
+5613962,5617107,hypernym,Similar to
+13583724,2468793,derivationally related form,derivationally related form
+11627028,11554175,hypernym,instance hypernym
+2559752,2452885,hypernym,similar to
+9283623,9225146,hypernym,derivationally related form
+755500,838524,derivationally related form,similar to
+5060476,5060189,hypernym,similar to
+1811736,7528807,derivationally related form,Similar to
+1461328,378985,derivationally related form,derivationally related form
+10216403,2593354,derivationally related form,synset
+11551211,8220891,hypernym,instance hypernym
+396703,394813,hypernym,similar to
+1605119,1616970,member meronym,Instance hypernym
+13463656,569318,derivationally related form,derivationally related form
+2093390,7439284,derivationally related form,similar to
+2674912,2707683,hypernym,hypernym
+5513807,5457469,has part,has part
+1959927,450335,synset domain topic of,member of domain usage
+10387196,4091839,derivationally related form,derivationally related form
+238720,13443787,derivationally related form,derivationally related form
+940214,126264,hypernym,similar to
+1745722,4004767,derivationally related form,derivationally related form
+10396462,7846,hypernym,derivationally related form
+8950035,8524735,instance hypernym,instance hypernym
+1828405,7486922,derivationally related form,derivationally related form
+12192373,12193458,member meronym,hypernym
+5035961,559102,derivationally related form,similar to
+2216547,1759182,hypernym,hypernym
+12445848,11561228,hypernym,hypernym
+69166,67999,hypernym,Synset
+2427726,10381214,derivationally related form,derivationally related form
+13149296,13100677,hypernym,hypernym
+1835103,9355850,derivationally related form,similar to
+8344301,8342039,hypernym,instance hypernym
+2525866,2527145,member meronym,member of
+2067941,2068408,member meronym,instance hypernym
+1028748,10344774,derivationally related form,derivationally related form
+141806,920336,derivationally related form,derivationally related form
+715074,352826,hypernym,similar to
+10351874,761713,derivationally related form,instance hypernym
+1255057,691050,derivationally related form,derivationally related form
+2671421,3081021,hypernym,hypernym
+2121234,2125311,member meronym,member of
+2217695,2217266,hypernym,synset
+9101318,8695539,instance hypernym,instance hypernym
+11689197,13135832,hypernym,instance hypernym
+1998019,1998183,member meronym,hypernym
+8775784,8574314,instance hypernym,instance hypernym
+1567678,1567133,hypernym,instance hypernym
+1538469,510364,hypernym,similar to
+147862,1284908,derivationally related form,similar to
+4182890,3895585,hypernym,Hypernym
+5835747,5833840,hypernym,Hypernym
+6873252,6873571,has part,member meronym
+5509889,5528060,has part,hypernym
+10227985,6161718,derivationally related form,instance hypernym.
+1004072,383606,hypernym,synset
+10878672,10625860,instance hypernym,instance hypernym
+1713635,1713764,member meronym,instance hypernym
+2462580,10760340,derivationally related form,derivationally related form
+7237758,842538,derivationally related form,hypernym
+11014450,10453533,instance hypernym,instance hypernym
+1107705,1105639,hypernym,derivationally related form
+6890846,2141973,derivationally related form,similar to
+1596479,1507175,hypernym,instance hypernym
+1830798,1762528,hypernym,synset
+3472232,99721,derivationally related form,hypernym
+11629501,11641788,member meronym,member of
+11357332,10453533,instance hypernym,instance hypernym
+13205482,13210827,member meronym,has part
+608808,5833840,derivationally related form,derivationally related form
+13907415,1280014,derivationally related form,similar to
+1637166,5786372,derivationally related form,derivationally related form
+815686,6746005,derivationally related form,derivationally related form
+6930934,6904171,hypernym,instance hypernym
+332154,397576,hypernym,similar to
+824292,6713187,derivationally related form,derivationally related form
+4762355,4760771,hypernym,hypernym
+562935,2557638,derivationally related form,synset
+6568978,1747717,derivationally related form,derivationally related form
+13107891,329495,derivationally related form,derivationally related form
+8312559,6226057,synset domain topic of,domain topic of
+6252138,1070102,derivationally related form,derivationally related form
+872886,9774167,derivationally related form,derivationally related form
+1751021,1675963,hypernym,Similar to
+2512053,1140794,derivationally related form,derivationally related form
+774056,9896826,derivationally related form,Similar to
+10295819,7846,hypernym,synset
+262249,1466543,derivationally related form,derivationally related form
+462092,89027,derivationally related form,verb group
+1366718,7527352,derivationally related form,derivationally related form
+9373716,9411430,instance hypernym,instance hypernym
+4074329,3129123,hypernym,hypernym
+8951077,8524735,instance hypernym,instance hypernym
+5536370,5303402,hypernym,hypernym
+1705257,7258664,derivationally related form,derivationally related form
+2149297,1864707,hypernym,instance hypernym
+11350705,10084635,instance hypernym,instance hypernym
+1921591,1921204,hypernym,similar to
+657016,1051801,derivationally related form,member of domain usage
+3588414,946105,derivationally related form,derivationally related form
+2447793,1139830,derivationally related form,derivationally related form
+12957467,13167078,hypernym,instance hypernym
+6005518,6004685,hypernym,hypernym
+1984695,1982650,hypernym,Hyponym.
+632236,5893356,derivationally related form,hypernym
+1566386,1504437,hypernym,instance hypernym
+2202928,818466,derivationally related form,derivationally related form
+2645007,33615,derivationally related form,Hypernym
+2578604,1432517,hypernym,instance hypernym
+195617,195342,verb group,synset
+1654863,1639765,hypernym,instance hypernym
+9044862,9105821,has part,has part
+12637729,12641007,member meronym,instance hypernym
+4356056,3976268,has part,has part
+9629752,1845720,derivationally related form,derivationally related form
+1865197,643250,also see,similar to
+7083441,863579,derivationally related form,derivationally related form
+12400261,12400924,member meronym,similar to
+10576223,7846,hypernym,derivationally related form
+10034614,1170052,derivationally related form,verb group
+1179707,2543181,derivationally related form,similar to
+1012712,657260,derivationally related form,verb group
+291873,8646188,derivationally related form,derivationally related form
+8096301,8149781,hypernym,hyponym
+5477686,5477305,has part,has part
+223720,1327301,derivationally related form,derivationally related form
+8792548,8011523,member of domain region,member of domain region
+2842303,4565963,hypernym,instance hypernym
+3738241,4377057,hypernym,hypernym
+1654271,768921,derivationally related form,derivationally related form
+306314,5623181,derivationally related form,similar to
+9133500,8524735,instance hypernym,instance hypernym
+2271544,646413,also see,similar to
+12611479,11556857,hypernym,member of domain usage
+90253,10511069,derivationally related form,derivationally related form
+1650610,235435,derivationally related form,derivationally related form
+11502102,216216,derivationally related form,similar to
+1572978,1212572,hypernym,similar to
+2466111,1222884,also see,similar to
+9113762,8524735,instance hypernym,instance hypernym
+1632103,5891572,derivationally related form,derivationally related form
+2113430,907340,derivationally related form,derivationally related form
+13023783,13031690,member meronym,hypernym
+11915899,11915214,hypernym,hypernym
+331950,191142,hypernym,hypernym
+8860123,10513509,member of domain region,member of domain region
+353469,267855,derivationally related form,verb group
+3069213,3149951,hypernym,Similar to
+3791053,4576211,hypernym,instance hypernym
+2470451,2489288,member meronym,member meronym
+5370125,5418717,hypernym,instance hypernym
+5399847,1471682,synset domain topic of,hypernym
+2552737,1429349,hypernym,Instance hypernym
+5204004,8199025,synset domain topic of,member of domain usage
+2036982,2037110,member meronym,instance hypernym
+13658496,13649268,hypernym,hyponym
+10518194,10435988,hypernym,synset
+2140781,229260,derivationally related form,synset
+2538216,2537085,hypernym,Instance hypernym
+6154464,6153846,hypernym,domain topic of
+2198996,1762525,hypernym,hypernym
+725274,7298154,derivationally related form,derivationally related form
+8142170,8348815,hypernym,instance hypernym
+5496990,5499379,has part,has part
+7605474,7597365,hypernym,synset
+1357831,1296462,hypernym,derivationally related form
+10942144,10020890,instance hypernym,instance hypernym.
+7152463,7152259,hypernym,similar to
+573932,126264,hypernym,verb group
+521562,1711445,derivationally related form,similar to
+8904392,8524735,instance hypernym,instance hypernym
+14786479,21939,hypernym,hypernym
+1074650,4654337,derivationally related form,derivationally related form
+1688589,1687665,hypernym,instance hypernym
+10460033,10053808,hypernym,hyponym
+2566528,68901,derivationally related form,Similar to
+331082,3724417,derivationally related form,derivationally related form
+229026,109660,hypernym,verb group
+8244062,10120085,derivationally related form,member of domain usage
+6755776,6755568,hypernym,similar to
+917772,10102506,derivationally related form,derivationally related form
+14560360,13920835,hypernym,synset
+1754105,113113,derivationally related form,derivationally related form
+2951170,1422172,derivationally related form,derivationally related form
+621734,5685030,derivationally related form,similar to
+9980090,7049713,derivationally related form,instance hypernym
+12201166,11575425,hypernym,instance hypernym
+6148148,6143154,hypernym,hypernym
+1877204,1850315,hypernym,hypernym
+2092309,7460104,derivationally related form,derivationally related form
+11654124,11654438,member meronym,instance hypernym
+11195619,10301261,instance hypernym,instance hypernym
+2037090,9437454,derivationally related form,derivationally related form
+4169437,4593866,has part,similar to
+1920698,523513,synset domain topic of,member of domain usage
+1926311,2075049,also see,verb group
+9797113,2565491,derivationally related form,derivationally related form
+8765460,8633957,instance hypernym,instance hypernym
+2541875,1432517,hypernym,Hypernym
+6364329,6362953,hypernym,hypernym
+10599806,1731031,derivationally related form,derivationally related form
+13000668,11592146,hypernym,hypernym
+8923755,8524735,instance hypernym,instance hypernym
+847683,846509,hypernym,Similar to
+8173515,8761244,member meronym,member of
+9051235,9103943,has part,member of domain region
+2454119,2455310,member meronym,member of
+1800422,271263,derivationally related form,synset
+897026,894552,hypernym,similar to
+1358328,8253450,derivationally related form,derivationally related form
+336718,126264,hypernym,similar to
+5520479,5264756,hypernym,hypernym
+2662979,1203676,derivationally related form,derivationally related form
+6135915,3002351,derivationally related form,derivationally related form
+180770,180413,hypernym,similar to
+1500082,2818832,derivationally related form,derivationally related form
+1822724,13811900,derivationally related form,derivationally related form
+4151581,4014297,hypernym,hypernym
+8023843,759694,synset domain topic of,instance hypernym
+2472012,2474777,member meronym,instance hypernym
+5055503,17222,synset domain topic of,hypernym
+14501545,14500908,hypernym,Synset
+3318983,4014297,hypernym,instance hypernym
+832626,659349,has part,has part
+1708676,428270,derivationally related form,synset
+1747945,6678302,derivationally related form,derivationally related form
+6062076,9919297,derivationally related form,derivationally related form
+6877849,6877078,hypernym,Hypernym
+378042,140123,hypernym,hypernym
+2661252,2666239,hypernym,synset
+12217211,12217586,member meronym,member of domain region
+3776460,4467099,hypernym,hypernym
+1015244,5823932,derivationally related form,similar to
+6915601,6906439,hypernym,Hypernym
+9999532,2253766,derivationally related form,derivationally related form
+12213635,12216028,member meronym,hypernym
+2330582,2350845,member meronym,member of
+10985440,9805475,instance hypernym,instance hypernym
+1989869,1974773,hypernym,hyponym
+652346,5763412,derivationally related form,derivationally related form
+11675096,11675842,hypernym,hypernym
+6845599,3739136,member of domain usage,instance hypernym
+8816236,9750891,member meronym,derivationally related form
+13423615,1254013,derivationally related form,synset
+883226,10274318,derivationally related form,synset
+7186148,7185325,hypernym,Similar to
+2230782,2231930,member meronym,instance hypernym
+12514592,13112664,hypernym,instance hypernym
+771961,7246582,derivationally related form,derivationally related form
+10067968,10215623,hypernym,hypernym
+9093608,8655464,instance hypernym,instance hypernym
+2559862,2554730,hypernym,instance hypernym
+2023992,3386011,derivationally related form,member of domain usage
+1786419,1785971,hypernym,similar to
+6350127,10654015,derivationally related form,member of domain usage
+4103918,2691156,synset domain topic of,member meronym
+8920924,8925287,has part,has part
+1208597,1207609,hypernym,derivationally related form
+13722757,13722522,has part,has part
+2465693,2120451,derivationally related form,derivationally related form
+1418037,243918,synset domain topic of,derivationally related form
+2501101,1342529,hypernym,instance hypernym
+1385017,1384687,hypernym,Hypernym
+14598079,1539633,derivationally related form,derivationally related form
+15278281,15286249,hypernym,similar to
+2464626,2463205,has part,has part
+2753255,331102,derivationally related form,derivationally related form
+1292885,4613158,derivationally related form,similar to
+6590885,6677302,synset domain topic of,instance hypernym
+739632,739270,hypernym,instance hypernym
+344421,331950,hypernym,hypernym
+10347446,8199025,synset domain topic of,member of domain region
+4530566,4117216,has part,has part
+7185325,753428,derivationally related form,derivationally related form
+10247880,7846,hypernym,derivationally related form
+7752109,7751451,hypernym,instance hypernym
+2338901,2329401,hypernym,Hypernym
+504901,115157,hypernym,hypernym
+9189411,8707917,has part,has part
+1523908,1584004,member meronym,instance hypernym.
+2690708,8624196,derivationally related form,verb group
+395333,2350175,derivationally related form,derivationally related form
+1831308,5685030,derivationally related form,derivationally related form
+13566535,376106,derivationally related form,derivationally related form
+2163982,1342529,hypernym,hypernym
+873603,884778,also see,similar to
+2457058,44900,derivationally related form,derivationally related form
+4889162,4887912,hypernym,similar to
+264776,4860586,derivationally related form,derivationally related form
+8179879,7942152,hypernym,Hypernym
+7485475,1188485,derivationally related form,Similar to
+8765069,8691669,instance hypernym,instance hypernym
+8231499,8078819,member meronym,instance hypernym
+188137,187526,hypernym,similar to
+7105475,15267945,member of domain usage,hypernym
+1880113,1831531,hypernym,synset
+3158885,3474896,has part,has part
+10379620,1081152,derivationally related form,derivationally related form
+10771270,1041415,derivationally related form,derivationally related form
+1400044,125629,derivationally related form,derivationally related form
+2154508,6767035,derivationally related form,verb group
+650353,10012815,derivationally related form,derivationally related form
+93979,241689,hypernym,similar to
+2647497,5393023,derivationally related form,hypernym
+8760510,8761244,member meronym,member of
+2038357,5068080,derivationally related form,synset
+1194483,4663763,derivationally related form,similar to
+635794,575365,derivationally related form,synset
+8955626,8700255,instance hypernym,member of
+1134781,122954,derivationally related form,derivationally related form
+8566028,8568978,hypernym,Similar to
+456596,456740,verb group,synset
+915830,941990,hypernym,similar to
+14462193,14460565,hypernym,Antonym
+241038,7313004,derivationally related form,derivationally related form
+858377,858188,hypernym,Hyponym
+921072,5919034,derivationally related form,derivationally related form
+12883395,11579418,hypernym,member of domain usage
+8131530,8347704,has part,has part
+369194,8303504,derivationally related form,derivationally related form
+15145782,15290337,hypernym,hypernym
+1305361,8640111,derivationally related form,derivationally related form
+306426,306900,has part,hypernym
+1020005,6765044,derivationally related form,derivationally related form
+1950798,1105259,derivationally related form,derivationally related form
+6951067,10589243,member of domain usage,domain usage
+1629589,1617192,hypernym,verb group
+8024096,759694,synset domain topic of,instance hypernym
+164999,163779,hypernym,synset
+1209678,5566504,derivationally related form,derivationally related form
+2579447,10419047,derivationally related form,derivationally related form
+7039056,1707495,derivationally related form,derivationally related form
+8101410,1429455,derivationally related form,synset
+2016523,7370125,derivationally related form,derivationally related form
+6142118,5999797,hypernym,hypernym
+12423565,12459471,member meronym,instance hypernym
+7619881,7566340,hypernym,hypernym
+1753488,1752165,hypernym,instance hypernym
+10820790,10705615,instance hypernym,instance hypernym
+2163183,2162947,hypernym,similar to
+15037339,15037664,has part,has part
+6013584,6000644,synset domain topic of,member of domain usage
+710005,704690,hypernym,similar to
+9760913,1728355,derivationally related form,verb group
+2108026,2108377,hypernym,similar to
+14302261,2616627,derivationally related form,derivationally related form
+11217479,10794014,instance hypernym,instance hypernym
+11683989,1500873,derivationally related form,verb group
+1217043,3421117,derivationally related form,derivationally related form
+12423565,12473011,member meronym,member of
+7211752,66025,derivationally related form,similar to
+5514272,5514081,hypernym,synset
+11835451,11573660,hypernym,Instance hypernym
+6180720,5870916,hypernym,instance hypernym
+9252078,9411430,instance hypernym,instance hypernym
+3852280,3656484,has part,hypernym
+1467180,1467504,member meronym,Hyponym
+8792548,8797840,has part,has part
+6609503,6607339,hypernym,similar to
+43765,2603699,derivationally related form,derivationally related form
+207306,206927,hypernym,Similar to
+6151693,6143154,hypernym,hypernym
+1696648,1675963,hypernym,Similar to
+3075191,6974127,derivationally related form,derivationally related form
+11886788,11575425,hypernym,hypernym
+1374465,9397607,derivationally related form,derivationally related form
+8152657,10547145,member meronym,has part
+1834896,1835103,verb group,Similar to
+2766792,3452741,hypernym,instance hypernym
+3530910,3532187,has part,member meronym
+1771390,1767949,hypernym,similar to
+8023843,8392137,instance hypernym,Instance hypernym
+13000372,13004160,member meronym,hypernym
+8928933,8524735,instance hypernym,instance hypernym
+455529,252430,derivationally related form,derivationally related form
+14863521,14859838,hypernym,hypernym
+13137409,7742704,has part,synset
+881329,880978,hypernym,similar to
+4543772,4283378,has part,has part.
+9614047,264776,derivationally related form,derivationally related form
+12079737,11556857,hypernym,member of domain usage
+11795366,11556857,hypernym,member of domain usage
+198793,191142,hypernym,Hypernym
+977153,976653,hypernym,synset
+417643,1424948,derivationally related form,similar to
+10060352,796886,derivationally related form,hypernym
+574996,7416107,derivationally related form,derivationally related form
+6584891,6355894,hypernym,instance hypernym
+8815046,9693809,member meronym,member of domain region
+2124748,2106506,hypernym,hypernym
+9044862,7647496,member of domain region,member of domain region
+6335832,6333653,hypernym,derivationally related form
+12574727,11585340,hypernym,instance hypernym
+40962,2724417,derivationally related form,derivationally related form
+7086518,1880113,derivationally related form,similar to
+12194776,12195965,member meronym,hypernym
+4217882,1498319,derivationally related form,derivationally related form
+12154628,12154773,member meronym,instance hypernym
+3339296,4188643,hypernym,hyponym
+4029734,4421872,hypernym,hypernym
+15237782,15236475,hypernym,instance hypernym
+2428487,53913,derivationally related form,derivationally related form
+15163005,15157041,hypernym,hypernym
+8929243,8929555,has part,has part
+236581,2007417,derivationally related form,derivationally related form
+1792097,1790020,hypernym,similar to
+8715952,8524735,instance hypernym,instance hypernym
+4003241,4330340,hypernym,instance hypernym
+4987620,982293,derivationally related form,derivationally related form
+10274639,9931267,hypernym,similar to
+10435988,1507143,derivationally related form,verb group
+7712559,7712382,hypernym,instance hypernym
+13412321,1001857,derivationally related form,derivationally related form
+2594552,2594250,hypernym,hypernym
+7311115,1835496,derivationally related form,verb group
+8394423,8191230,hypernym,synset
+2244963,1759182,hypernym,instance hypernym
+7182744,7183151,hypernym,similar to
+2932891,1844653,derivationally related form,derivationally related form
+652659,633864,hypernym,derivationally related form
+5459953,14867858,hypernym,hypernym
+3270165,4304375,has part,has part
+553362,1103836,derivationally related form,similar to
+475647,252430,derivationally related form,derivationally related form
+67274,9860940,derivationally related form,similar to
+514396,1387786,derivationally related form,derivationally related form
+2087156,2077656,hypernym,verb group
+518653,313987,hypernym,similar to
+369138,2028994,derivationally related form,similar to
+7443010,1521124,derivationally related form,derivationally related form
+2329883,4322026,derivationally related form,derivationally related form
+7269916,6806469,hypernym,Hyponym
+768353,766234,hypernym,hyponym
+11746776,12486732,member meronym,member of
+6295235,3825080,member of domain usage,no relation
+1798100,1770501,hypernym,similar to
+1471682,5563034,has part,hypernym
+1505254,2098458,verb group,similar to
+1409065,1387617,hypernym,member of domain region
+1835496,1992503,also see,Similar to
+14476205,14475405,hypernym,member of domain usage
+1421622,1296462,hypernym,verb group
+2046755,343249,derivationally related form,verb group
+1400856,1400044,hypernym,member of domain usage
+931847,1644746,derivationally related form,synset
+8860123,504844,member of domain region,member of domain region
+667424,666886,hypernym,synset
+7184735,774056,derivationally related form,synset
+783042,782527,hypernym,similar to
+2120140,14361664,derivationally related form,derivationally related form
+2072673,1992503,hypernym,similar to
+8720481,9341673,has part,has part
+4695176,286605,derivationally related form,derivationally related form
+10207514,10305802,hypernym,hypernym
+339085,358089,derivationally related form,derivationally related form
+4643221,4623612,hypernym,hypernym
+2646757,13253751,derivationally related form,synset
+1543998,1543123,verb group,verb group
+3258730,3121897,hypernym,synset
+8775597,8574314,instance hypernym,instance hypernym
+6213688,9755398,derivationally related form,similar to
+1292534,1354673,hypernym,verb group
+1521367,10016954,derivationally related form,derivationally related form
+11864602,11866078,member meronym,hypernym
+13096317,13095685,hypernym,hypernym
+8774073,8524735,instance hypernym,instance hypernym
+2156532,5559908,hypernym,Hypernym
+11804082,11804604,member meronym,instance hypernym
+1896478,921014,also see,similar to
+12339319,11567411,hypernym,hypernym
+7939159,31264,hypernym,hypernym
+7270179,508032,derivationally related form,derivationally related form
+3002351,13523661,derivationally related form,derivationally related form
+12283981,12285512,member meronym,instance hypernym
+1342124,3829563,derivationally related form,hypernym
+852685,851933,hypernym,verb group
+5902545,5898568,hypernym,Synset
+1821727,1821869,member meronym,instance hypernym
+13659419,13659162,has part,hypernym
+4633197,4632157,hypernym,Similar to
+7498854,7497473,hypernym,Similar to
+10728998,2530167,derivationally related form,derivationally related form
+606370,1658762,derivationally related form,synset
+5967191,5943300,hypernym,hypernym
+6845599,4011409,member of domain usage,instance hypernym
+139919,469651,synset domain topic of,Member of domain usage
+8731606,8716738,has part,has part
+7233996,865958,derivationally related form,derivationally related form
+9615807,710005,derivationally related form,derivationally related form
+14636523,14622893,hypernym,instance hypernym
+5983217,5982152,hypernym,synset
+6122178,6115476,hypernym,Hypernym
+5697976,688377,derivationally related form,synset
+14780267,237877,derivationally related form,derivationally related form
+618451,4743024,derivationally related form,derivationally related form
+11911274,12167749,member meronym,instance hypernym
+10127273,10287213,hypernym,hypernym
+2471467,2472012,member meronym,hypernym
+8801546,9032191,instance hypernym,instance hypernym
+6917083,3108623,derivationally related form,derivationally related form
+692143,7500414,derivationally related form,derivationally related form
+2298160,8424951,derivationally related form,derivationally related form
+80169,78760,hypernym,hypernym
+2942699,3340723,has part,has part
+1867295,1627355,derivationally related form,derivationally related form
+369399,1387786,derivationally related form,hypernym
+11944196,13085113,hypernym,hypernym
+2470175,2469835,hypernym,similar to
+1542207,10587378,derivationally related form,derivationally related form
+734927,15159583,derivationally related form,synset
+8821578,8821187,has part,has part
+7208708,7208338,hypernym,similar to
+2873623,2944826,hypernym,member meronym
+2299924,2298632,hypernym,Similar to
+1021794,903559,synset domain topic of,hypernym
+313987,126264,hypernym,derivationally related form
+14724025,14723079,hypernym,Similar to
+7221094,6598915,hypernym,hypernym
+8617963,8664443,hypernym,hypernym
+8414807,625963,derivationally related form,derivationally related form
+2397529,2394477,hypernym,instance hypernym
+9634494,7846,hypernym,member of domain region
+9877587,2326355,derivationally related form,derivationally related form
+9679708,9678009,hypernym,Hyponym
+845178,13440063,hypernym,instance hypernym
+12423565,12465796,member meronym,member of
+11719468,11735822,member meronym,member of
+1190277,9782167,derivationally related form,derivationally related form
+5461179,5238282,has part,synset
+5794403,5793000,hypernym,hypernym
+7916970,7885223,hypernym,hypernym
+12358293,7822323,has part,instance hypernym
+1024190,6763681,derivationally related form,derivationally related form
+7350401,1892608,derivationally related form,similar to
+6888345,2139883,derivationally related form,derivationally related form
+4760296,4761517,hypernym,similar to
+2535909,2536456,member meronym,instance hypernym
+417001,3118539,derivationally related form,derivationally related form
+808191,808614,similar to,similar to
+7032753,7071942,synset domain topic of,instance hypernym
+4038109,4037625,hypernym,synset
+1232298,7538395,derivationally related form,similar to
+2371811,2367363,hypernym,similar to
+2642610,2641957,hypernym,synset
+7526505,7526338,hypernym,synset
+356199,351638,hypernym,synset
+8912703,8524735,instance hypernym,instance hypernym.
+229026,14836960,derivationally related form,derivationally related form
+2503803,2501738,hypernym,verb group
+15124545,15124713,has part,has part
+73343,13473097,derivationally related form,derivationally related form
+1292928,956485,instance hypernym,instance hypernym
+13617308,922327,synset domain topic of,member of domain usage
+1551871,937656,derivationally related form,verb group
+264776,251809,also see,similar to
+8704822,8705251,has part,has part
+667747,10510546,derivationally related form,derivationally related form
+7275489,7274425,hypernym,similar to
+12633386,12633638,member meronym,instance hypernym
+2916350,4008634,hypernym,instance hypernym
+2575766,2576223,member meronym,hypernym
+4636610,4636397,hypernym,similar to
+914421,1837744,also see,similar to
+390735,1700326,derivationally related form,member of domain usage
+12200315,12200504,member meronym,instance hypernym
+4072193,299341,derivationally related form,derivationally related form
+11727976,11571907,hypernym,instance hypernym
+5554405,5554189,hypernym,hypernym
+12056217,12041446,hypernym,hyponym
+661091,10707233,derivationally related form,derivationally related form
+14526182,2134350,derivationally related form,Similar to
+10014939,2443049,derivationally related form,hypernym
+10617193,10642151,hypernym,Hypernym
+2052675,15287830,derivationally related form,derivationally related form
+8438533,8439476,member meronym,member meronym
+572186,126264,hypernym,derivationally related form
+2568884,10626194,derivationally related form,derivationally related form
+543410,13464820,derivationally related form,similar to
+4076846,3129123,hypernym,hypernym
+1702154,9784564,derivationally related form,derivationally related form
+5623181,306314,derivationally related form,synset
+3484083,3485997,has part,has part
+1679669,7672421,derivationally related form,derivationally related form
+8188449,9920901,member meronym,Hypernym
+4955160,1245637,derivationally related form,derivationally related form
+13439390,13526110,hypernym,hypernym
+2120692,2128120,member meronym,hypernym
+2453321,2452885,hypernym,Similar to
+559102,10056103,derivationally related form,similar to
+19613,13809207,hypernym,member of domain usage
+8230219,8227214,hypernym,hypernym
+6778925,6778102,hypernym,hyponym
+7400361,2188587,derivationally related form,derivationally related form
+9223725,9257949,hypernym,similar to
+3592245,3111690,hypernym,hypernym
+1560984,7313814,derivationally related form,derivationally related form
+4568298,3178782,hypernym,hypernym
+3566329,3700963,hypernym,instance hypernym
+8945821,8698379,instance hypernym,Instance hypernym
+8879388,8524735,instance hypernym,hypernym
+81671,262792,also see,similar to
+793271,8479615,derivationally related form,instance hypernym
+13384164,13281275,hypernym,instance hypernym
+1944466,1974062,hypernym,synset
+7289588,925490,derivationally related form,derivationally related form
+853195,7215568,derivationally related form,derivationally related form
+4425262,3713736,hypernym,instance hypernym
+6877742,34758,derivationally related form,Similar to
+582145,4631700,derivationally related form,derivationally related form
+14526764,2363358,derivationally related form,derivationally related form
+947857,634586,derivationally related form,verb group
+687295,9779124,derivationally related form,derivationally related form
+1424607,1425076,member meronym,hypernym
+849788,6780069,derivationally related form,derivationally related form
+4475,4258,hypernym,hypernym
+1380122,367976,derivationally related form,derivationally related form
+10466198,901103,derivationally related form,hypernym
+565279,109660,hypernym,Hypernym
+11743772,11743294,hypernym,instance hypernym
+7154330,2937108,derivationally related form,derivationally related form
+2566528,9633969,derivationally related form,similar to
+277811,216216,derivationally related form,derivationally related form
+346991,1754421,also see,similar to
+3051540,52374,derivationally related form,derivationally related form
+1530431,5582859,derivationally related form,Synset.
+8208016,8008335,hypernym,hypernym
+5159495,5159225,hypernym,synset
+1672168,4568713,derivationally related form,derivationally related form.
+10175725,9977660,hypernym,instance hypernym
+3040974,1392380,derivationally related form,derivationally related form
+1193099,759186,derivationally related form,instance hypernym
+3070193,2670382,hypernym,instance hypernym
+7411350,2033295,derivationally related form,similar to
+12647560,12647376,hypernym,similar to
+2942699,4211528,has part,has part
+1424456,5553486,derivationally related form,member of domain usage
+76072,2527651,derivationally related form,similar to
+7243837,1032368,synset domain topic of,part of
+1534609,278221,derivationally related form,derivationally related form
+9020299,8524735,instance hypernym,instance hypernym
+4952570,4952242,hypernym,hypernym
+3579355,1675963,derivationally related form,synset
+1628885,1631035,member meronym,instance hypernym
+389238,5001867,derivationally related form,derivationally related form
+2409941,6520944,derivationally related form,instance hypernym
+705580,661091,hypernym,hypernym
+80705,612160,synset domain topic of,derivationally related form
+10551265,15259284,synset domain topic of,member of domain usage
+2025550,827782,derivationally related form,derivationally related form
+10362003,7846,hypernym,synset
+2570267,2514187,hypernym,similar to
+1292727,9334396,derivationally related form,synset
+7105475,36580,member of domain usage,instance hypernym
+751887,8190292,derivationally related form,derivationally related form
+11867525,11896904,member meronym,hypernym
+6155075,6153846,hypernym,hypernym
+464962,1430847,also see,synset
+9089923,8524735,instance hypernym,instance hypernym
+511817,2418421,derivationally related form,synset
+2140033,522145,derivationally related form,derivationally related form
+334935,1499265,derivationally related form,derivationally related form
+11511765,835903,derivationally related form,similar to
+2395406,2395694,derivationally related form,has part
+935940,1643464,derivationally related form,derivationally related form
+1225562,11551,derivationally related form,derivationally related form
+12163824,7755411,has part,synset
+4894204,4894037,hypernym,similar to
+10037922,10515194,hypernym,Hyponym
+3639497,4402057,hypernym,Hypernym
+1483779,1463963,hypernym,verb group
+15146004,15290337,hypernym,hypernym
+2795169,3533972,has part,has part
+2987047,3574816,hypernym,hypernym
+2418686,2419073,hypernym,synset
+2119874,14180327,derivationally related form,Similar to
+7286368,7286014,hypernym,Similar to
+2950154,7115914,derivationally related form,hypernym
+9184136,9183693,hypernym,Synset
+1639714,1631534,hypernym,hypernym
+1558765,1557185,hypernym,Instance hypernym
+7388987,1247804,derivationally related form,derivationally related form
+7027180,7020895,hypernym,hypernym
+9426788,9313716,has part,Synset
+6236802,5946687,hypernym,hyponym
+1522276,7441619,derivationally related form,similar to
